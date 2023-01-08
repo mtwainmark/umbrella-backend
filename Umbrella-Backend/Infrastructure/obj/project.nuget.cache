@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CVxuA9utDL4D0Umi6E0ovtY+WHhKiJoUOmdfD3yw7ivZeXT6ijfcYjVm9Ny7C/hEkwl1Mcv2DQMpgkQ7w9JCcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n.skorohod\\Documents\\Work\\Umbrellla\\umbrella-backend\\Umbrella-Backend\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n.skorohod\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
